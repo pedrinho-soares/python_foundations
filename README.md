@@ -1,2 +1,2 @@
 # python_foundations
-Este repositório contém materiais introdutórios sobre Python, focando nos fundamentos essenciais da linguagem. Aqui serão abordados conceitos básicos como variáveis, tipos de dados, estruturas de controle, funções, entre outros, servindo como base para quem está começando no mundo da programação com Python.
+Este repositório contém materiais introdutórios sobre Python, focando nos fundamentos essenciais da linguagem. Aqui serão abordados conceitos básicos como variáveis, tipos de dados, estruturas de controle, funções, entre outros, servindo como base para quem está começando no mundo da programação com Python. Nosso foco é aprender aqui primeiro para depois entrarmos em conceitos e ferramentas de Ciência de Dados
